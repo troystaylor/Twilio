@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">911 Julie's office</Say>
+  <Say voice="alice">911 Julie's office. Repeat, 911 Julie's office.</Say>
   <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
